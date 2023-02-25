@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-class fence
+class fence1
 {
     public static void main(String args[])
     {
