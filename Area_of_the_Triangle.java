@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.*;
-class area{
+class area1{
     public static void main(String [] args){
         Scanner s=new Scanner(System.in);
         float x=s.nextFloat();
