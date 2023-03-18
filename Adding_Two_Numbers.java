@@ -6,7 +6,7 @@ class n{
         Scanner s=new Scanner(System.in);
         t=s.nextInt();
         int j=s.nextInt();
-        System.out.println(t+j);
+        System.out.println(t+j); 
     
             
         }
