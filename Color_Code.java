@@ -10,7 +10,7 @@ class n{
             System.out.println("Indigo");
         }
         else if (k=='b' || k=='b'){
-            System.out.println("Blue");
+            System.out.println("Blue"); 
         }
         else if (k=='g' || k=='G'){
             System.out.println("Green");
