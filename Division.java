@@ -5,6 +5,8 @@ class n{
         int k,j;
         k=m.nextInt();
         j=m.nextInt();
+        
+        
         System.out.println(k/j);
     }
 }
